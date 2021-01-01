@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,OSN series
+http://ar148lion.referrari.com/live/118043_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,OSN cinema 2
+http://ar148lion.referrari.com/live/18026_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,OSN cinema 1
+http://ar148lion.referrari.com/live/18025_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,OSN ya hala cinema
+http://ar148lion.referrari.com/live/18022_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Dragon action
+http://lionch.referrari.com:8080/live/98923_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Dragon aflam 1
+http://lionch.referrari.com:8080/live/98922_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Dragon cinema
+http://lionch.referrari.com:8080/live/98921_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Dragon movies
+http://lionch.referrari.com:8080/live/98929_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Dragon series
+http://lionch.referrari.com:8080/live/98930_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Beout cinema hd1
+http://lionch.referrari.com:8080/live/98810_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Beout action
+http://lionch.referrari.com:8080/live/98811_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Beout action +2
+http://lionch.referrari.com:8080/live/98812_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Beout movies +2
+http://lionch.referrari.com:8080/live/98813_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Beout movies
+http://lionch.referrari.com:8080/live/98815_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,NETFLIX comedy hd
+http://lionch.referrari.com:8080/live/98754_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shoof action
+http://lionch.referrari.com:8080/live/99021_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shoof max
+http://lionch.referrari.com:8080/live/98896_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shoof cinema 1
+http://lionch.referrari.com:8080/live/99022_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shoof cinema 2
+http://lionch.referrari.com:8080/live/99023_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shoof aflam
+http://lionch.referrari.com:8080/live/99024_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Majestic cinema
+http://lionch.referrari.com:8080/live/194147_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shahid zaman
+http://lionch.referrari.com:8080/live/9012025_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shahid romance
+http://lionch.referrari.com:8080/live/9012024_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shahid Horror
+http://lionch.referrari.com:8080/live/9012023_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Shahid aflam 1
+http://lionch.referrari.com:8080/live/9012017_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Movie cinema
+http://lionch.referrari.com:8080/live/1090102_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Family M
+http://lionch.referrari.com:8080/live/98858_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,M Movies comedy
+http://lionch.referrari.com:8080/live/98857_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,M HD
+http://lionch.referrari.com:8080/live/98855_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Star Net action
+http://lionch.referrari.com:8080/live/98752_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Star Net arabic
+http://lionch.referrari.com:8080/live/98906_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Star Net Horror
+http://lionch.referrari.com:8080/live/98751_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,Star Net Kids
+http://lionch.referrari.com:8080/live/98750_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,AL FAJER 1
+http://lionch.referrari.com:8080/live/99059_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,AL FAJER 2
+http://lionch.referrari.com:8080/live/99062_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,AL FAJER 3
+http://lionch.referrari.com:8080/live/99064_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,AL FAJER 4
+http://lionch.referrari.com:8080/live/99068_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
+#EXTINF:-1,AL FAJER 5
+http://lionch.referrari.com:8080/live/99069_.m3u8?token=4ef1cafa70ed4085b041ad06c9f39608&t=.ts
